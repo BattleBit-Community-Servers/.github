@@ -1,12 +1,9 @@
-## Hi there 👋
+# BattleBit Community Servers
 
-<!--
+Welcome to the BattleBit Community Servers organization! This organization was created to host scripts and resources that will help you run your own BattleBit community servers. 
 
-**Here are some ideas to get you started:**
+## Server Scripts
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Currently, server scripts are private until community servers are open to all people. Feel free to browse through the available repos and use any resources that you find helpful. 
+
+Thank you for supporting the BattleBit community!
