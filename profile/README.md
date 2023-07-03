@@ -1,5 +1,5 @@
 # BattleBit Community Servers
-
+[![BattleBit Community Servers](https://raw.githubusercontent.com/BattleBit-Community-Servers/files/main/website/BBCS_Black%20Large%20Wide.png)](https://battlebit.community/)
 Welcome to the BattleBit Community Servers organization! This organization was created to host scripts and resources that will help you run your own BattleBit community servers.
 
 # Running Server Requirements
