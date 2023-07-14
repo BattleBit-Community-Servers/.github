@@ -10,4 +10,4 @@ Make sure to follow this orginization for updates
 
 Thank you for supporting the BattleBit community!
 
-Support server comming soon! Contact `Jellisy` on discord for now
+Support server: https://battlebit.community/server/discord
