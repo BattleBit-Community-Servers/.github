@@ -1,6 +1,6 @@
 # Welcome to BattleBit Community Servers
 
-![BattleBit Community Servers](BBCS_Black_Large_Wide.png)
+![BattleBit Community Servers](profile/BBCS_Black_Large_Wide.pngBBCS_Black_Large_Wide.png)
 
 ## About Us
 
