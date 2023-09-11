@@ -1,13 +1,17 @@
-# BattleBit Community Servers
-[![BattleBit Community Servers](https://raw.githubusercontent.com/BattleBit-Community-Servers/files/main/website/BBCS_Black%20Large%20Wide.png)](https://battlebit.community/)
-Welcome to the BattleBit Community Servers organization! This organization was created to host scripts and resources that will help you run your own BattleBit community servers.
+# Welcome to BattleBit Community Servers
 
-# Running Server Requirements
-You Need a Steam Account that owns The Game! This cant me your main account that you play the game with!
+![BattleBit Community Servers](BBCS_Black_Large_Wide.png)
 
+## About Us
 
-Make sure to follow this orginization for updates
+Welcome to BattleBit Community Servers, your go-to hub for hosting scripts and resources that simplify the management of your own BattleBit community servers.
 
-Thank you for supporting the BattleBit community!
+At BattleBit Community Servers, our mission is clear: to provide server operators with top-quality tools and solutions, ensuring a seamless and enjoyable experience in running and maintaining BattleBit servers. We're here to empower server administrators and cultivate a thriving BattleBit community.
 
-Support server: https://battlebit.community/server/discord
+## Join Our Community
+
+We invite you to join our community on [Discord](https://battlebit.community/server/discord), where you can connect with fellow server operators, seek assistance, and stay up-to-date with the vibrant BattleBit server community.
+
+Thank you for being a part of the BattleBit community. We're excited to support you on your server hosting journey!
+
+[Visit our Website](https://battlebit.community/)
