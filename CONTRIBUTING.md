@@ -8,9 +8,16 @@ Thank you for considering contributing to BattleBit Community Servers. Your cont
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [How to Contribute](#how-to-contribute)
-    - [Reporting Issues](#reporting-issues)
-    - [Feature Requests](#feature-requests)
-    - [Pull Requests](#pull-requests)
+  - [Development Guidelines](#development-guidelines)
+    - [Coding Standards and Conventions](#coding-standards-and-conventions)
+    - [Version Control](#version-control)
+    - [Documentation](#documentation)
+    - [Testing](#testing)
+    - [Code Reviews](#code-reviews)
+    - [Dependency Management](#dependency-management)
+    - [Security](#security)
+    - [Performance](#performance)
+    - [Code Ownership](#code-ownership)
   - [License](#license)
 
 ## Code of Conduct
@@ -19,32 +26,80 @@ We value and maintain a welcoming, inclusive, and respectful community. We expec
 
 ## How to Contribute
 
-### Reporting Issues
+We use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) to standardize our commit messages, making it easier to understand the purpose of each commit. Please follow these guidelines when making commits:
 
-If you encounter a problem with any of our projects or have a general question, please open an issue in the project's repository. When reporting issues, remember to provide as much detail as possible, including:
+- Use the format `type(scope): description` for your commit messages.
+- The `type` should be one of:
+  - `feat`: for new features
+  - `fix`: for bug fixes
+  - `chore`: for routine tasks and maintenance
+  - `docs`: for documentation updates
+  - `style`: for code style changes
+  - `refactor`: for code refactoring
+  - `test`: for adding or updating tests
+- The `scope` is optional but can be used to specify the part of the project affected by the commit.
+- The `description` should be a concise summary of your changes.
 
-- A clear and concise description of the issue.
-- Detailed steps to reproduce the problem.
-- Information about your operating system, browser, or environment if relevant.
-- Include any error messages or logs you've encountered.
+For example:
+- `feat(login): add new user authentication feature`
+- `fix(api): resolve issue with data parsing`
 
-### Feature Requests
+## Development Guidelines
 
-We encourage you to share your ideas for new features or improvements. To propose a feature, open an issue to discuss it. Make sure to provide a comprehensive description of the proposed feature, including its use case and benefits. Your feedback is invaluable to us.
+When contributing to BattleBit Community Servers, it's important to follow these development guidelines to maintain consistency and ensure the quality of the codebase.
 
-### Pull Requests
+### Coding Standards and Conventions
 
-Contributions in the form of bug fixes, new features, and improvements are highly appreciated. To contribute code, follow these steps:
+- Adhere to established coding standards and conventions for the project.
+- Use consistent and meaningful variable and function names.
+- For detailed code formatting guidelines, please refer to [CODE_FORMATTING](CODE_FORMATTING.md).
+- Maintain a clear and organized code structure.
 
-1. **Fork the repository**: Create your copy of the repository by clicking the "Fork" button in the upper right corner.
-2. **Clone your fork**: Clone your forked repository to your local machine using `git clone`.
-3. **Create a new branch**: Before making changes, create a new branch for your work, e.g., `git checkout -b feature/your-feature-name`.
-4. **Make your changes**: Implement your code changes and ensure they align with the project's goals.
-5. **Commit and push**: Commit your changes with clear, concise commit messages and push them to your GitHub repository: `git push origin feature/your-feature-name`.
-6. **Open a Pull Request (PR)**: Navigate to the original repository and open a Pull Request from your branch to the repository's `main` branch.
-7. **Provide context**: In your PR description, provide a detailed explanation of your changes, including why they are necessary and how they address the issue or contribute to the project.
 
-A project maintainer will review your PR, and feedback or additional changes may be requested before merging.
+### Version Control
+
+- Use Git for version control.
+- Create a feature branch for your work and keep it focused on a specific task.
+- Commit your changes with clear and concise commit messages following [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) guidelines.
+
+### Documentation
+
+- Keep code comments up-to-date and provide explanations for complex or non-obvious code segments.
+- Update relevant documentation files (e.g., README.md) to reflect your changes, if necessary.
+
+### Testing
+
+- Write tests for new features and ensure existing tests pass.
+- Follow testing best practices and conventions specific to the project.
+- Provide test coverage for code modifications where applicable.
+
+### Code Reviews
+
+- Expect your code to be reviewed by project maintainers or other contributors.
+- Be responsive to feedback and make necessary revisions to your code.
+- Maintain a positive and constructive attitude during code reviews.
+
+### Dependency Management
+
+- Clearly specify any new dependencies introduced by your changes.
+- Keep dependencies up-to-date and follow the project's dependency management guidelines.
+
+### Security
+
+- Be vigilant about security vulnerabilities and avoid introducing them.
+- If you discover security issues, report them responsibly to project maintainers.
+
+### Performance
+
+- Strive for efficient and performant code.
+- Avoid unnecessary resource consumption and optimize where possible.
+
+### Code Ownership
+
+- Respect the existing codebase and the decisions made by project maintainers.
+- If your changes affect a specific module or component, consider collaborating with the responsible maintainers.
+
+By following these development guidelines, you contribute to a cohesive and high-quality codebase that benefits the entire BattleBit Community Servers community. Thank you for your commitment to maintaining code quality and consistency.
 
 ## License
 
